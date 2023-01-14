@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
-<h3 align="center">A recent alunmi from Wilfrid Laurier University</h3>
+<h3 align="center">A recent alunmi from Wilfrid Laurier University with a BSC in Computer Science</h3>
 
 - 🔭 I’m currently seeking new grad opportunitites 
 
 - 🌱 I’m currently learning **to create a company website**
 
-- 📫 How to reach me **sumeet.9345@gmail.com**
+- 📫 How to reach me **ssandhu.tech@gmail.com**
 
 - ⚡ Fun fact **Passionate Artist**
 
