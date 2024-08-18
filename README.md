@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently seeking IT, SWE opportunitites 
 
-- 🌱 I’m currently learning **to create a company website**
+- 🌱 I’m currently studying for my Security + exam and getting certifications in web development! Completed Certs in HTML, CSS & Javascript
 
 - 📫 How to reach me **ssandhu.tech@gmail.com**
 
