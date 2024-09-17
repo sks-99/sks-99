@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently seeking IT, SWE opportunitites 
 
-- 🌱 I’m currently studying for my Security + exam and getting certifications in web development! Completed Certs in HTML, CSS & Javascript
+- 🌱 I’m currently studying for my Security + exam and getting certifications in web development! 
+    - HTML/CSS Certification: https://v2.scrimba.com/certificate-cert2CsEjr6BRBz5XLAjcZHz5TT4imdgnF6kSc
+    - Java Script Certification: https://v2.scrimba.com/certificate-cert2CsEjr6BRBz5XLAjcZJ1ZkaMFwNT4GL9RN
 
 - 📫 How to reach me **ssandhu.tech@gmail.com**
 
