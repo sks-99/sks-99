@@ -19,7 +19,7 @@
   - https://6ed600-49.myshopify.com/
 
  - 😊 Fun Projects I'm working on!
-    Leads collection Chrome Extentsion & In-Browser Web Application
+    Leads collection Chrome Extentsion & In-Browser Web Application [HTML, CSS, JavaScript, Firebase Database]
     https://leadstrackerappsand.netlify.app/
 
   
