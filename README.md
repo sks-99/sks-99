@@ -15,8 +15,9 @@
   - https://dhillonvineyardmanagement.com/
   - https://www.sandgfarm.com/
 
-  Freelance Project In Progress! Upcoming Custom Code Shopify Website.. Launching in Spring 2025 
+  Business Project In Progress! Upcoming Custom Code Shopify Website.. Launching in Spring 2025 
   - https://6ed600-49.myshopify.com/
+  - Updating Branding & Marketing: Logo, Social Media, Content Creation, E-Commerce Implemntation and Business Specific Strategies
 
  - 😊 Fun Projects I'm working on!
     Leads collection Chrome Extentsion & In-Browser Web Application [HTML, CSS, JavaScript, Firebase Database]
