@@ -9,13 +9,18 @@
 - 📫 How to reach me **ssandhu.tech@gmail.com**
 
 - ⚡ Fun fact **Passionate Artist**
-- Visit my professional web applications that I have created for businesses :)
-  https://dhillonvineyardmanagement.com/
-  https://www.sandgfarm.com/
+- Visit my professional web applications that I have created for businesses 
+  - https://dhillonvineyardmanagement.com/
+  - https://www.sandgfarm.com/
 
-  Projects I'm working on! Upcoming Custom Code Shopify Website.. Launching in Spring 2025 for S & G Farms
-  https://6ed600-49.myshopify.com/
-   
+  Projects I'm working on! Upcoming Custom Code Shopify Website.. Launching in Spring 2025 
+  - https://6ed600-49.myshopify.com/
+
+ - 😊 Fun Projects I'm working on!
+    Leads collection Chrome Extentsion & In-Browser Web Application
+    https://leadstrackerappsand.netlify.app/
+
+  
 
 
 <h3 align="left">Connect with me:</h3>
