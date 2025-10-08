@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Sumeet</h1>
-<h3 align="center">I'm a Masters student at University of Illnois</h3>
+<h3 align="center">I'm a Masters student at the University of Illnois</h3>
 
-- 🔭 I’m currently seeking IT, SWE opportunitites 
+- 🔭 I’m currently seeking SWE opportunitites 
 
-- 🌱 I’m currently studying for my Security + exam and getting certifications in web development! 
+- 🌱 I’m currently getting certifications in web development! 
     - HTML/CSS Certification: https://v2.scrimba.com/certificate-cert2CsEjr6BRBz5XLAjcZHz5TT4imdgnF6kSc
     - Java Script Certification: https://v2.scrimba.com/certificate-cert2CsEjr6BRBz5XLAjcZJ1ZkaMFwNT4GL9RN
+    - React Cert Coming soon...
 
 - 📫 How to reach me **ssandhu.tech@gmail.com**
 
@@ -15,9 +16,6 @@
   - https://dhillonvineyardmanagement.com/
   - https://www.sandgfarm.com/
 
-  Business Project In Progress! Upcoming Custom Code Shopify Website.. Launching in Late Fall 2025 
-  - https://6ed600-49.myshopify.com/
-  - Updating Branding & Marketing: Logo, Social Media, Content Creation, E-Commerce Implemntation and Business Specific Strategies
 
  - 😊 Fun Projects I'm working on!
     Leads collection Chrome Extentsion & In-Browser Web Application [HTML, CSS, JavaScript, Firebase Database]
